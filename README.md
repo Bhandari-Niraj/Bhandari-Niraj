@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Bhandari-Niraj
 - 👀 I’m interested in Web and Database Engineering
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning 
+- 💞️ I’m looking to collaborate on Software Projects as well as Tech startup.
+- 📫 How to reach me : el.niraj@gmail.com
 
 <!---
 Bhandari-Niraj/Bhandari-Niraj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
